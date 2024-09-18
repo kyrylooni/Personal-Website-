@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("/images/my_media/IMG_9683.jpg");
+		background: url("images/overlay.png"), url("../../images/my_media/IMG_9683.jpg");
 		background-size: 256px 256px, auto 140%;  /* Adjusts the size of the background image */
 		background-color: #e6ddce;
 		background-attachment: fixed, fixed;
@@ -2255,7 +2255,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("/images/my_media/IMG_3295.jpg");
+		background: url("images/overlay.png"), url("../../images/my_media/IMG_3295.jpg");
 		background-size: 256px 25px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2264,7 +2264,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("/images/my_media/056C25FF-7465-410A-AF5D-BD7633CD956B.JPG");
+		background: url("images/overlay.png"), url("../../images/my_media/056C25FF-7465-410A-AF5D-BD7633CD956B.JPG");
 		background-size: 256px 256px, auto 100%;  /* Adjusts the size of the background image */
 		background-attachment: fixed, fixed;
 		background-position: center center;  /* Centers the background image */
